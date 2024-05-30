@@ -1,0 +1,21 @@
+main{
+    width: 80%;
+    margin: auto;
+}
+h1{
+    padding: 5vh;
+    text-align: center;
+}
+table{
+    padding: 5vh;
+}
+tr{
+    background-color: rgba(255, 244, 254, 0.747);
+}
+button{
+    border: none;
+    background-color: rgba(255, 255, 255, 0);
+}
+footer{
+    text-align: center;
+}
